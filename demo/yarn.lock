@@ -4058,9 +4058,9 @@ native-url@0.3.1:
     querystring "^0.2.0"
 
 nd-core@^0.5.0:
-  version "0.5.3"
-  resolved "https://registry.yarnpkg.com/nd-core/-/nd-core-0.5.3.tgz#51a4f74d42ffcc54b0ff43aff9fd6f518f9a3d00"
-  integrity sha512-Uki9hAU/30qWGLjOzJfvw/sHwaJrSQ5PWaVgOKRyaYzqd0CNZQJGrrgnpIXBY1XHstqJUjpxaF3q3UL8x0J7/g==
+  version "0.5.6"
+  resolved "https://registry.yarnpkg.com/nd-core/-/nd-core-0.5.6.tgz#595921edd3c123dab6254857f5e75d65f017c4ac"
+  integrity sha512-GqrCYAePzj35vfrU3Gq4l5eOnvU8LQpSRppLWmyABv1LR9+wQGC7YwQCvQTx4FtFaP/Je7MxC68yliR51/+6Vw==
   dependencies:
     isomorphic-fetch "^2.2.1"
     next "^9.4.4"
