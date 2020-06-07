@@ -1,9 +1,11 @@
 {
-  "core":{
-    {
-      "epics": [ ],
-      "props": [ ],
-      "components": [ "Conf" ]
-    }
+  "core": {
+    "name": "@nextdapp/core",
+    "path": "@nextdapp/core",
+    "key": "core",
+    "noinstall": false,
+    "epics": [ ],
+    "props": [ ],
+    "components": [ "Conf" ]
   }
 }
