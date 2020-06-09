@@ -1,6 +1,7 @@
 {
   "name": "@nextdapp/base",
   "version": "0.2.0",
+  "main": "lib",
   "scripts": {
     "build": "babel src --out-dir lib"
   },
