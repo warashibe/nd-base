@@ -1,6 +1,6 @@
 {
   "name": "@nextdapp/base",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "main": "lib",
   "scripts": {
     "build": "babel src --out-dir lib"
@@ -14,10 +14,8 @@
   },
   "peerDependencies": {
     "next": "^9.4.4",
-    "next-redux-wrapper": "^6.0.2",
     "ramda": "^0.27.0",
-    "react": "^16.13.1",
-    "react-redux": "^7.2.0"
+    "react": "^16.13.1"
   },
   "license": "MIT",
   "dependencies": {}
